@@ -4,7 +4,7 @@
  
 **Full-Stack Software Engineer · RIT '26 · Georgia Tech MS CS '28**
  
-Building production systems that actually get used — from live medical clinics to AI-powered platforms.
+Building production systems that actually get used, from live medical clinics to AI-powered platforms.
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-jonathanzhu.vercel.app-1DB954?style=flat-square&logo=vercel&logoColor=white)](https://jonathanzhu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathanzhuu-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jonathanzhuu)
@@ -28,7 +28,7 @@ Building production systems that actually get used — from live medical clinics
 ### 🏥 Custom EMR System
 > Production electronic medical records platform replacing paper-based workflows at a live optometry clinic.
  
-**Impact:** 75% reduction in documentation time · Used in active patient care  
+**Impact:** 75% reduction in documentation time, used in active patient care  
 **Stack:** `FastAPI` `PostgreSQL` `React` `TypeScript` `AWS`
  
 ---
@@ -58,7 +58,7 @@ Building production systems that actually get used — from live medical clinics
 ### 🎵 Spotify-Inspired Portfolio
 > Developer portfolio with a Spotify-inspired UI — browse projects like you'd browse an album.
  
-**Stack:** `React` `TypeScript` `Vite` · [Live →](https://jonathanzhu.vercel.app)
+**Stack:** `React` `TypeScript` `Vite` - [Live →](https://jonathanzhu.vercel.app)
  
 ---
  
@@ -95,14 +95,13 @@ Building production systems that actually get used — from live medical clinics
  
 | Role | Company | Period |
 |------|---------|--------|
-| Full-Stack Software Engineer | Citywide Eye Care | Jan 2024 – Present |
-| Full-Stack Software Engineer | ZLA (AI-Enabled CRM) | Aug 2025 – Present |
-| Software Engineer Intern | Citywide Eye Care | Sep – Dec 2023 |
-| Application Developer Intern | ADP | Jun – Aug 2023 |
+| Full-Stack Software Engineer | Citywide Eye Care | Jan 2024 - Present |
+| Full-Stack Software Engineer | ZLA (AI-Enabled CRM) | Aug 2025 - Present |
+| Software Engineer Intern | Citywide Eye Care | Sep - Dec 2023 |
+| Application Developer Intern | ADP | Jun - Aug 2023 |
  
 ---
  
 <div align="center">
   <i>"Building software that gets used, not just built."</i>
 </div>
- 
