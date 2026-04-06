@@ -16,9 +16,9 @@ Building production systems that actually get used, from live medical clinics to
  
 ## What I'm working on
  
-- 🏥 **Production EMR system** — used daily at a live optometry clinic. Cut documentation time by **75%**.
-- 🤖 **AI-enabled CRM platform** — integrates OpenAI, Google Places & Brave Search. Reduced manual research by **60%**.
-- 📊 **RemitAI** — HIPAA-compliant revenue cycle management platform on AWS Bedrock (Amazon Nova Pro).
+- 🏥 **Production EMR system** - used daily at a live optometry clinic. Cut documentation time by **75%**.
+- 🤖 **AI-enabled CRM platform** - integrates OpenAI, Google Places & Brave Search. Reduced manual research by **60%**.
+- 📊 **RemitAI** - HIPAA-compliant revenue cycle management platform on AWS Bedrock (Amazon Nova Pro).
 - 🎓 Finishing my **B.S. in Software Engineering** at RIT, then starting an **M.S. in CS at Georgia Tech** (Fall 2026).
  
 ---
@@ -34,7 +34,7 @@ Building production systems that actually get used, from live medical clinics to
 ---
  
 ### 🤖 AI-Powered CRM Platform
-> Full-stack CRM with AI lead discovery — autonomously finds and scores leads using OpenAI, Google Places, and Brave Search.
+> Full-stack CRM with AI lead discovery - autonomously finds and scores leads using OpenAI, Google Places, and Brave Search.
  
 **Impact:** 60% reduction in manual research  
 **Stack:** `FastAPI` `PostgreSQL` `OpenAI` `React` `TypeScript`
@@ -56,7 +56,7 @@ Building production systems that actually get used, from live medical clinics to
 ---
  
 ### 🎵 Spotify-Inspired Portfolio
-> Developer portfolio with a Spotify-inspired UI — browse projects like you'd browse an album.
+> Developer portfolio with a Spotify-inspired UI - browse projects like you'd browse an album.
  
 **Stack:** `React` `TypeScript` `Vite` - [Live →](https://jonathanzhu.vercel.app)
  
