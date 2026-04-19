@@ -6,7 +6,7 @@
  
 Building production systems that actually get used, from live medical clinics to AI-powered platforms.
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-jonathanzhu.vercel.app-1DB954?style=flat-square&logo=vercel&logoColor=white)](https://jonathanzhu.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jonathanzhu.dev-1DB954?style=flat-square&logo=vercel&logoColor=white)](https://jonathanzhu.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathanzhuu-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jonathanzhuu)
 [![Email](https://img.shields.io/badge/Email-jzmz831@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jzmz831@gmail.com)
  
