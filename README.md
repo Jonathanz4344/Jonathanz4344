@@ -98,7 +98,7 @@ Building production systems that actually get used, from live medical clinics to
 | Full-Stack Software Engineer | Citywide Eye Care | Jan 2024 - Present |
 | Full-Stack Software Engineer | ZLA (AI-Enabled CRM) | Aug 2025 - Present |
 | Software Engineer Intern | Citywide Eye Care | Sep - Dec 2023 |
-| Application Developer Intern | ADP | Jun - Aug 2023 |
+| Site Reliability Engineer Intern | ADP | Jun - Aug 2023 |
  
 ---
  
