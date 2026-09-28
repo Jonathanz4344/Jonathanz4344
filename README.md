@@ -130,7 +130,6 @@ Building production systems that actually get used, from live medical clinics to
   <a href="https://www.credly.com/badges/93febdb2-7a93-4b92-8859-c593377a1d25/public_url"><img src="https://images.credly.com/images/73e93208-0df3-435d-b58c-07c8ee6019d9/blob" width="90" alt="Gemini Enterprise Agent Development"></a>
   <a href="https://www.credly.com/badges/3dd2687d-c36d-42cb-878b-7b191a3705fe/public_url"><img src="https://images.credly.com/images/f874c419-9e95-4db2-85f9-4e45b89833f5/blob" width="90" alt="Gemini Enterprise Deployment"></a>
   <a href="https://www.credly.com/badges/543ed9b8-b3e1-4f64-9ddb-62a12b271717/public_url"><img src="https://images.credly.com/images/d8bc1ecf-6369-4bf9-8920-84169b35d918/blob" width="90" alt="Claude Partner Badge: Claude Code"></a>
-  <img src="https://jonathanzhu.dev/certs/aws.svg" width="90" alt="AWS Certified Cloud Practitioner">
   <a href="https://www.credly.com/badges/e12267e3-37e4-4a74-a942-5f3f64342ac7/public_url"><img src="https://images.credly.com/images/d610767c-c268-49a3-af8d-1b0e7ad8940b/IBM-Generative-and-Agentic-AI-Developer---Intermediate.png" width="90" alt="IBM Generative & Agentic AI Developer"></a>
 </p>
 
