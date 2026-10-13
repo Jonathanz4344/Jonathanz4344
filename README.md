@@ -145,6 +145,6 @@ Building production systems that actually get used, from live medical clinics to
 ---
 
 <div align="center">
-  <i>"Building software that gets used, not just built."</i>
+  <i>"Building software that gets used, not just built like SHUMEE."</i>
 </div>
 
