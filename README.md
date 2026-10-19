@@ -130,6 +130,7 @@ Building production systems that actually get used, from live medical clinics to
   <a href="https://www.credly.com/badges/93febdb2-7a93-4b92-8859-c593377a1d25/public_url"><img src="https://images.credly.com/images/73e93208-0df3-435d-b58c-07c8ee6019d9/blob" width="90" alt="Gemini Enterprise Agent Development"></a>
   <a href="https://www.credly.com/badges/3dd2687d-c36d-42cb-878b-7b191a3705fe/public_url"><img src="https://images.credly.com/images/f874c419-9e95-4db2-85f9-4e45b89833f5/blob" width="90" alt="Gemini Enterprise Deployment"></a>
   <a href="https://www.credly.com/badges/543ed9b8-b3e1-4f64-9ddb-62a12b271717/public_url"><img src="https://images.credly.com/images/d8bc1ecf-6369-4bf9-8920-84169b35d918/blob" width="90" alt="Claude Partner Badge: Claude Code"></a>
+  <a href="https://www.credly.com/badges/cec5f5bb-8de4-4bdb-b994-146167076610/public_url"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="90" alt="AWS Certified Cloud Practitioner"></a>
   <a href="https://www.credly.com/badges/e12267e3-37e4-4a74-a942-5f3f64342ac7/public_url"><img src="https://images.credly.com/images/d610767c-c268-49a3-af8d-1b0e7ad8940b/IBM-Generative-and-Agentic-AI-Developer---Intermediate.png" width="90" alt="IBM Generative & Agentic AI Developer"></a>
 </p>
 
@@ -139,7 +140,7 @@ Building production systems that actually get used, from live medical clinics to
 | 💿 Platinum | [Certified Partner Specialist: Gemini Enterprise Agent Development](https://www.credly.com/badges/93febdb2-7a93-4b92-8859-c593377a1d25/public_url) | Google Cloud | Jul 2026 |
 | 💿 Platinum | [Certified Partner Specialist: Gemini Enterprise Deployment](https://www.credly.com/badges/3dd2687d-c36d-42cb-878b-7b191a3705fe/public_url) | Google Cloud | Jul 2026 |
 | 💿 Platinum | [Claude Partner Badge: Claude Code](https://www.credly.com/badges/543ed9b8-b3e1-4f64-9ddb-62a12b271717/public_url) | Anthropic | Jul 2026 |
-| 💿 Platinum | AWS Certified Cloud Practitioner | Amazon Web Services | 2026 |
+| 💿 Platinum | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/cec5f5bb-8de4-4bdb-b994-146167076610/public_url) | Amazon Web Services | Oct 2026 |
 | 📀 Gold | [IBM Generative & Agentic AI Developer](https://www.credly.com/badges/e12267e3-37e4-4a74-a942-5f3f64342ac7/public_url) | IBM | Jul 2026 |
 
 ---
